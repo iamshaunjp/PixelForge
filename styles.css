@@ -2,28 +2,28 @@
 
 :root {
     /* Backgrounds */
-    --color-bg: #14111c;
-    --color-surface: #1e1a2b;
-    --color-surface-raised: #2a2439;
-    --color-border: #3d3552;
+    --color-bg: #f6f1e8;
+    --color-surface: #fffaf2;
+    --color-surface-raised: #eee5d7;
+    --color-border: #d6c9b7;
 
     /* Text */
-    --color-text: #ece8f5;
-    --color-text-muted: #9a93ad;
-    --color-text-disabled: #5f5873;
+    --color-text: #282333;
+    --color-text-muted: #665e70;
+    --color-text-disabled: #898191;
 
     /* Brand */
-    --color-primary: #e63946;
-    --color-primary-hover: #ff4d5a;
-    --color-secondary: #8b5cf6;
-    --color-secondary-hover: #a67cff;
-    --color-accent: #ff8a1f;
+    --color-primary: #f2b8b5;
+    --color-primary-hover: #f6c8bd;
+    --color-secondary: #d8c8f4;
+    --color-secondary-hover: #c7b2ed;
+    --color-accent: #a84f12;
 
     /* Status */
-    --color-success: #3ddc84;
-    --color-warning: #ffc233;
-    --color-danger: #ff3b30;
-    --color-info: #38bdf8;
+    --color-success: #247a4b;
+    --color-warning: #875b00;
+    --color-danger: #b42318;
+    --color-info: #087ca5;
 }
 
 * {
